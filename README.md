@@ -2,6 +2,7 @@ OctoTest
 ========
 
 Toto je testovací repozitrář. Můžete si pomocí něj vyzkoušet, 
+SEM NAPISU NECO JINYHO
 jak se používá Git a Github.
 
 Jmenuju se Honza
